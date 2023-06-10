@@ -3,11 +3,12 @@ AI Hub 일반상식 데이터 활용 QA 구현 프로젝트
 
 [[정리 자료]](https://github.com/dhye1/QA_project/blob/main/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/AI%20hub%20%EC%9D%BC%EB%B0%98%EC%83%81%EC%8B%9D%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
 [[정리 페이지]](https://velog.io/@hyeda/1222)
+ <BR> 
+
 
 ## 구현 실습
 
-> 논문에서 소개한 모델을 그대로 구현하고 싶었으나, 구성원 모두가 qa 모델을 처음 구현해보는 것이었기 때문에 기본 BERT 모델에 AIhub 에서 제공하는 일반상식 데이터를 적용해보며 QA 데이터셋과 기본적인 모델 구현과정을 익히는 것을 목표로 하였다!
-  
+
  <BR> 
 
 ### AI hub의 일반상식 데이터
