@@ -47,5 +47,5 @@ AI Hub 일반상식 데이터 활용 QA 구현 프로젝트
  <BR> 
   
 [[정리 자료]](https://github.com/dhye1/QA_project/blob/main/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/AI%20hub%20%EC%9D%BC%EB%B0%98%EC%83%81%EC%8B%9D%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
-[[정리 페이지]](https://velog.io/@hyeda/1222)
+[[정리 페이지]](https://velog.io/@hyeda/QApaper)
  <BR> 
